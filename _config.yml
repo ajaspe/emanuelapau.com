@@ -1,0 +1,17 @@
+title: "Emanuela Pau - Clinical Psychologist"
+email: contact@emanuelapau.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Online Therapy for Expats. Terapia online per italiani all'estero. Terapia online para expatriados.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: null
+plugins:
+  - jekyll-feed
+
+languages: ["en", "it", "es"]
+default_lang: "en"
+exclude:
+  - Gemfile
+  - Gemfile.lock

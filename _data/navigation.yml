@@ -1,0 +1,29 @@
+en:
+  - title: Home
+    url: /en/
+  - title: Services
+    url: /en/services/
+  - title: About
+    url: /en/about/
+  - title: Contact
+    url: /en/contact/
+
+it:
+  - title: Home
+    url: /it/
+  - title: Servizi
+    url: /it/services/
+  - title: Chi Sono
+    url: /it/about/
+  - title: Contatti
+    url: /it/contact/
+
+es:
+  - title: Inicio
+    url: /es/
+  - title: Servicios
+    url: /es/services/
+  - title: Sobre Mí
+    url: /es/about/
+  - title: Contacto
+    url: /es/contact/

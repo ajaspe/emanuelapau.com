@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page-header bg-alt section-padding">
+	<div class="container text-center">
+		<h1>{{ page.title }}</h1>
+		{% if page.subtitle %}
+		<p style="font-size: 1.2rem; margin-top: 10px; color: var(--color-primary);">{{ page.subtitle }}</p>
+		{% endif %}
+	</div>
+</div>
+
+<div class="page-content section-padding">
+	<div class="container">
+		{{ content }}
+	</div>
+</div>
