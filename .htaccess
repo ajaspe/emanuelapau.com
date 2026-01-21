@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Private Access"
+AuthUserFile /full/path/to/your/web/root/.htpasswd
+Require valid-user
